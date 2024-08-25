@@ -6,9 +6,9 @@ function toggleModel() {
   let img = document.querySelector("#profile img")
   // se tiver on ligth mode, adicionar a imagem light
   if (html.classList.contains("light")) {
-    img.setAttribute("src", "./assets/avatar.png")
+    img.setAttribute("src", "/assets/avatar.png")
   } else {
     // se tiver off light mode, manter a imagem normal
-    img.setAttribute("src", "./assets/avatar.png")
+    img.setAttribute("src", "/assets/avatar.png")
   }
 }
