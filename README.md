@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="Projeto" src="./assets/Cover.png" width="100%">
+  <img alt="Projeto" src="./assets/cover.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
